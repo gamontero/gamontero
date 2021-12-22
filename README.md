@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://github.com/nirala96/nirala96/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h2 align="center">Welcome</h2>
 </p>
 
 ### Hi there 👋 I'm [Gustavo](https://www.linkedin.com/in/gamontero/)
@@ -14,25 +14,26 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; JavaScript | R 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | Bootstrap | ReactJS | Redux | TypeScript | Node | Express | Sequelize 
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | PosgresSQL
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🔧 &nbsp; Git | Markdown | 
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🌐 SCRUM;
+
 
 -->
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Learning</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker 
 
 <hr>
 
