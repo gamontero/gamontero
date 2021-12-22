@@ -6,6 +6,14 @@
 ### Hi there 👋 I'm [Gustavo](https://www.linkedin.com/in/gamontero/)
 > Full Stack Web Developer | Data Analyst | Engineer 
 
+After Chemical Engineering I never thought I would be transitioning into software development. After spending over 700 hours devoloping and learnign I can´t see myself doing anything else. I found my passion and I am here to share it with you!! 
+
+My previous experience involved data analysis of chemical processes and project development. Fluent in Spanish and English both written and spoken after seven years of undergraduate and graduate education.
+
+If you are interested in my services, please don´t hesitate to check my linkedin Profile or contact me directly by email. 
+
+
+
 
 <img src="https://komarev.com/ghpvc/?username=gamontero" alt="gamontero" />
 
@@ -22,7 +30,7 @@
 
 - 🛢 &nbsp; MySQL | PosgresSQL
 
-- 🔧 &nbsp; Git | Markdown | 
+- 🔧 &nbsp; Git | Markdown | Excel
 
 - 🌐 SCRUM;
 
