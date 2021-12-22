@@ -6,7 +6,7 @@
 ### Hi there 👋 I'm [Gustavo](https://www.linkedin.com/in/gamontero/)
 > Full Stack Web Developer | Data Analyst | Engineer 
 
-After Chemical Engineering I never thought I would be transitioning into software development. After spending over 700 hours devoloping and learnign I can´t see myself doing anything else. I found my passion and I am here to share it with you!! 
+After Chemical Engineering I never thought I would be transitioning into software development. After spending over 700 hours developing and learnign I can´t see myself doing anything else. I found my passion and I am here to share it with you!! 
 
 My previous experience involved data analysis of chemical processes and project development. Fluent in Spanish and English both written and spoken after seven years of undergraduate and graduate education.
 
