@@ -1,13 +1,41 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://github.com/nirala96/nirala96/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Gustavo Montero](https://www.linkedin.com/in/gamontero/)
+### Hi there 👋 I'm [Gustavo](https://www.linkedin.com/in/gamontero/)
 > Full Stack Web Developer | Data Analyst | Engineer 
 
 
 <img src="https://komarev.com/ghpvc/?username=gamontero" alt="gamontero" />
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+
+<hr>
+
 
 <br>
 
